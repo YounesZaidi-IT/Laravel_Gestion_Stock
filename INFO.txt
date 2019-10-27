@@ -1,0 +1,19 @@
+Please Execute this command :
+composer update
+php artisan migrate
+php artisan db:seed
+
+and Login as admin : 
+user : admin@gmail.com  
+pass : admin2019
+
+
+
+
+########################################
+Test online :
+http://stocktest.xyz/
+
+
+admin : admin@gmail.com  pass : admin2019
+user  : karim@gmail.com  pass : admin2019
